@@ -8,5 +8,6 @@ def key_for_min_value(name_hash)
     if value == sorted[0]
       return key
     end
+  nil
   end
 end
